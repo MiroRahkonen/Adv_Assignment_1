@@ -137,10 +137,9 @@ async function generateItems() {
                 </div>
               </div>`;
 
-  entries.appendChild(entry1);
-  entries.appendChild(entry2);
-  entries.appendChild(entry3);
-  entries.appendChild(entry4);
-  entries.appendChild(entry5);
-  div.appendChild(entries);
+  div.appendChild(entry1);
+  div.appendChild(entry2);
+  div.appendChild(entry3);
+  div.appendChild(entry4);
+  div.appendChild(entry5);
 }
