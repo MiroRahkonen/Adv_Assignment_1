@@ -32,7 +32,7 @@ body {
   }
   .wiki-content {
     display: flex;
-    /*flex-flow: row-reverse;*/
+    flex-direction: row-reverse;
   }
   .wiki-text {
     max-width: 50%;
